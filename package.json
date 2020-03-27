@@ -1,0 +1,13 @@
+{
+  "id": "maxdone",
+  "name": "Maxdone",
+  "version": "1.0.0",
+  "description": "Maxdone",
+  "author": "Kirill Sidenko <sks.develop@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/ksidenko/maxdone-franz-plugin",
+  "config": {
+    "serviceURL": "https://maxdone.micromiles.co/personal#tasks/todo"
+  }
+}
